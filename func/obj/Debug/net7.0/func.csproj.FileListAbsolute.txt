@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/types/func/bin/Debug/net7.0/func
+/Users/mengxuan/Projects/types/func/bin/Debug/net7.0/func.deps.json
+/Users/mengxuan/Projects/types/func/bin/Debug/net7.0/func.runtimeconfig.json
+/Users/mengxuan/Projects/types/func/bin/Debug/net7.0/func.dll
+/Users/mengxuan/Projects/types/func/bin/Debug/net7.0/func.pdb
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.AssemblyInfo.cs
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.dll
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/refint/func.dll
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.pdb
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/func.genruntimeconfig.cache
+/Users/mengxuan/Projects/types/func/obj/Debug/net7.0/ref/func.dll

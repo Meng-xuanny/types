@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/types/cache/bin/Debug/net7.0/cache
+/Users/mengxuan/Projects/types/cache/bin/Debug/net7.0/cache.deps.json
+/Users/mengxuan/Projects/types/cache/bin/Debug/net7.0/cache.runtimeconfig.json
+/Users/mengxuan/Projects/types/cache/bin/Debug/net7.0/cache.dll
+/Users/mengxuan/Projects/types/cache/bin/Debug/net7.0/cache.pdb
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.AssemblyInfo.cs
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.dll
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/refint/cache.dll
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.pdb
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/cache.genruntimeconfig.cache
+/Users/mengxuan/Projects/types/cache/obj/Debug/net7.0/ref/cache.dll

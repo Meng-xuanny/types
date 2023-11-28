@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/types/types/bin/Debug/net7.0/types
+/Users/mengxuan/Projects/types/types/bin/Debug/net7.0/types.deps.json
+/Users/mengxuan/Projects/types/types/bin/Debug/net7.0/types.runtimeconfig.json
+/Users/mengxuan/Projects/types/types/bin/Debug/net7.0/types.dll
+/Users/mengxuan/Projects/types/types/bin/Debug/net7.0/types.pdb
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.AssemblyInfo.cs
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.dll
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/refint/types.dll
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.pdb
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/types.genruntimeconfig.cache
+/Users/mengxuan/Projects/types/types/obj/Debug/net7.0/ref/types.dll

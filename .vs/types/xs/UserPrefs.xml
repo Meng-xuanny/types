@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E81C9A0E-F429-46A5-9B3A-5908DFAAF071}|Default">
+  <MonoDevelop.Ide.ItemProperties.cache PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.types PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cache/Program.cs">
+    <Files>
+      <File FileName="cache/Program.cs" Line="66" Column="1" />
+      <File FileName="func/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="types" expanded="True">
+            <Node name="cache" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="func" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.func PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mengxuan/Projects/types/types/Program.cs" relfile="types/Program.cs" line="182" column="1" />
+      <Breakpoint file="/Users/mengxuan/Projects/types/func/Program.cs" relfile="func/Program.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
